@@ -1,6 +1,6 @@
 # Tokenizer
 
-This project implements a simple CLI where users can input sentences and see how they get tokenized in real-time.
+This project implements a simple CLI where users can input sentences and see how they get tokenized.
 
 <b> Special Tokens</b>: Handles `<UNK>` `<START>` and `<END>` tokens
 <br><b>Vocabulary Learning:</b> Automatically builds vocabulary from training data<br><b>
