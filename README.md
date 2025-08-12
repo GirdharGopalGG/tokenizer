@@ -8,7 +8,7 @@ Token Details:</b> Shows both token strings and their corresponding IDs
 
 ## Installation
 
-### Clone this repository
+<b> Clone this repository </b>
 
 - `git clone https://github.com/GirdharGopalGG/tokenizer.git`
 
@@ -16,7 +16,7 @@ Token Details:</b> Shows both token strings and their corresponding IDs
 
 ## Usage
 
-### Run the tokenizer: `node index.js`
+<b> Run the tokenizer: </b> `node index.js`
 
 The program will:
 - Train the tokenizer on built-in training data
