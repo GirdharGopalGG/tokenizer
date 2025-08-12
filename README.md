@@ -27,7 +27,7 @@ git clone https://github.com/GirdharGopalGG/tokenizer.git
 
 ## Usage
 
-<b> Run the tokenizer: </b>
+<b> Run the tokenizer</b>
 ```
 node index.js
 ```
@@ -39,7 +39,7 @@ The program will:
 
 CLI Commands:
 - Enter any sentence to see its tokenization
-- Type quit to exit the program
+- Type `quit` to exit the program
 
 ---
 
